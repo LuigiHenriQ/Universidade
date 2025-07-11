@@ -1,4 +1,4 @@
-"""# 🎓 Dashboard de Indicadores Acadêmicos - Universidade
+# 🎓 Dashboard de Indicadores Acadêmicos - Universidade
 
 Este projeto apresenta uma dashboard desenvolvida no Power BI com o objetivo de **monitorar e analisar indicadores acadêmicos** relacionados à gestão universitária, incluindo desempenho de cursos, evasão, público-alvo e status dos alunos.
 
